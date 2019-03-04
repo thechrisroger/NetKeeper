@@ -1,0 +1,4 @@
+# NetKeeper
+
+用于杀死netkeeper的进程达到在Windows平台上使用WiFi的目的
+请自行修改脚本中的路径
