@@ -1,4 +1,7 @@
 # NetKeeper
 
 用于杀死netkeeper的进程达到在Windows平台上使用WiFi的目的
-请自行修改脚本中的路径
+
+双击能直接以管理员身份运行netkeeper程序，在拨号成功后定位到脚本窗口， 
+请自行修改脚本中netkeeper软件安装的路径
+
